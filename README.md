@@ -31,5 +31,4 @@ This challenge was a great opportunity to improve my frontend skills and better 
 
 Feel free to explore the code and suggest improvements! 😊 
 
-👨‍💻 Developed by [ِAbdelrahman Yasser](https://.github.com/abdoyasser702)
-
+👨‍💻 Developed by [ِAbdelrahman Yasser]([https://.github.io/abdoyasser702](https://github.com/abdoyasser702/abdoyasser702)
